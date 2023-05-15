@@ -13,7 +13,7 @@ build/
 *.iml
 *.ipr
 out/
-!**/src/main/**/out/
+!**/src/main/**/out/A
 !**/src/test/**/out/
 
 ### Eclipse ###
@@ -40,3 +40,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+##내가 추가한 부분##
+src/main/resources/application.properties
